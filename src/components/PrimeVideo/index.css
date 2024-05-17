@@ -1,0 +1,30 @@
+.prime-video-container {
+  background-color: #000;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 50px;
+}
+
+.prime-video-logo {
+  width: 100%;
+}
+
+.movies-section {
+  width: 100%;
+  flex-grow: 1;
+  padding: 10px 30px;
+  display: flex;
+  flex-direction: column;
+}
+
+.slider-container {
+  width: 95%;
+  align-self: center;
+}
+
+.genre-heading {
+  color: #ffffff;
+  font-size: 20px;
+  margin: 30px 20px;
+}
